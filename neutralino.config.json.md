@@ -67,7 +67,7 @@ v2.x implementation
         "TEST": "value",
         "NUM": 500
       }
-    }
+    },
     "cloud": {
       "port": 5016,
       "globalVariables": {
