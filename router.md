@@ -13,3 +13,14 @@ Eg:
 - `http://localhost:5000/app.js` will load `./app.js`
 - `http://localhost:5000/resources/home.png` will load `./resources/home.png`
 - `http://localhost:5000/` will load `./index.html`
+
+
+## Native interface protocol
+
+v1.x implementation
+
+Uses `POST http://localhost:5000/<module>/<method>`
+
+v2.x implementation
+
+Will use `POST http://localhost:5000/__nativeMethod_<module>::<method>`. So there is no confusion with file paths.
