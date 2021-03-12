@@ -6,4 +6,4 @@ Anyone on the network can access the native API/application via `<computer_ip>:<
 
 v2.x implementation
 
-Anyone can access the app, only if the application is launched with the `cloud` mode.
+Anyone can access the app via a shared network, only if the application is launched with the `cloud` mode.
