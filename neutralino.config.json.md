@@ -12,7 +12,7 @@ File path: `./neutralino.config.json`
 
 v1.x implementation
 
-```json
+```js
 {
   "appname": "test-app",
   "appport": 8080,
@@ -40,7 +40,7 @@ v1.x implementation
 
 v2.x implementation
 
-```json
+```js
 {
   "applicationId": "js.neutralino.testApp",
   "port": 8080,
