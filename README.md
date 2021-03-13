@@ -5,3 +5,4 @@ Design documentation for v2.
 - [settings.json -> neutralino.config.json](neutralino.config.json.md)
 - [Security improvements](security.md)
 - [Router improvements](router.md)
+- [Project structure](project-structure.md)
