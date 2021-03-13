@@ -1,4 +1,4 @@
-## Flexible static-file server improvements
+## Static-file server improvements
 
 v1.x implementation
 
