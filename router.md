@@ -19,8 +19,8 @@ Eg:
 
 v1.x implementation
 
-Uses `POST http://localhost:5000/<module>/<method>`
+Uses `POST/GET http://localhost:5000/<module>/<method>`
 
 v2.x implementation
 
-Will use `POST http://localhost:5000/__nativeMethod_<module>.<method>`. So there is no confusion with file paths.
+Will use `POST/GET http://localhost:5000/__nativeMethod_<module>.<method>`. So there is no confusion with file paths.
