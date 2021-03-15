@@ -12,7 +12,7 @@ Eg:
 
 - `http://localhost:5000/app.js` will load `./app.js`
 - `http://localhost:5000/resources/home.png` will load `./resources/home.png`
-- `http://localhost:5000/` will load `./index.html`
+- Both `http://localhost:5000/` and `http://localhost:5000` (without ending `/`) will load `./index.html`
 
 
 ## Native interface protocol
