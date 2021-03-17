@@ -62,25 +62,11 @@ v2.x implementation
       "maximize": false,
       "width": 800,
       "height": 600,
-      "enableinspector": false,
-      "globalVariables": {
-        "TEST": "value",
-        "NUM": 500
-      }
+      "enableInspector": false
     },
     "cloud": {
-      "port": 5016,
-      "globalVariables": {
-        "TEST": "value",
-        "NUM": 500
-      }
     },
     "browser": {
-      "port": 5026,
-      "globalVariables": {
-        "TEST": "value",
-        "NUM": 500
-      }
     }
   }
 }
