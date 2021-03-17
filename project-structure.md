@@ -6,8 +6,7 @@ Since there is a pre-created `app/assets` directory, developers may try to put r
 
 v2.x implementation 
 
-Developers can specify the entry path via `entryPath` option in `neutralino.config.json`. Initially, `entryPath` directory will be served from the static file server.
-Besides, when the developer is transpiling source files of the selected frontend framework, output files will be created inside `entryPath`.
+Developers can add web content to any location they wish.
 
 ## Adding a blank template
 
