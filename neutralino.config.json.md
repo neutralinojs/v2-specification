@@ -45,7 +45,7 @@ v2.x implementation
   "applicationId": "js.neutralino.testApp",
   "port": 8080,
   "defaultMode": "window",
-  "entryPath": "/", // Eg: /index.html, /assets/home.html
+  "url": "/app", // Eg: /index.html, /app/home.html, https://neutralino.js.org
   "globalVariables": {
     "TEST": "value",
     "NUM": 500
