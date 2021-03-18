@@ -3,6 +3,6 @@ Design documentation for v2. After the completion v2, we need to sync the latest
 
 - [Refactoring JavaScript API](js-api-refactoring.md) - 2/2 Done
 - [settings.json -> neutralino.config.json](neutralino.config.json.md) - 1/2 Done
-- [Security improvements](security.md) - To do
+- [Security improvements](security.md) - 1/1 Done
 - [Router improvements](router.md) - 2/2 Done
 - [Project structure](project-structure.md) - To do
