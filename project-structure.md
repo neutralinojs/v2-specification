@@ -1,4 +1,4 @@
-## Isolating static files directory
+## Static files
 
 v1.x implementation
 
