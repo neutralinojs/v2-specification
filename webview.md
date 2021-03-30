@@ -6,7 +6,7 @@ These versions use MSHTML web browser component. In modern Windows versions, it 
 
 v2.x implementation
 
-v2 will use EdgeChromium as the web browser component. But, from the user's end we expect to run the following command to get Neutralinojs apps working.
+v2 will use EdgeChromium as the web browser component. But, from the user's end, they should run the following command to get Neutralinojs apps working with administrator privileges.
 
 ```cmd
 CheckNetIsolation.exe LoopbackExempt -a -n="Microsoft.Win32WebViewHost_cw5n1h2txyewy"
