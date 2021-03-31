@@ -6,4 +6,4 @@ Design documentation for v2. After the completion v2, we need to sync the latest
 - [Security improvements](security.md) - 1/1 Done
 - [Router improvements](router.md) - 2/2 Done
 - [Project structure](project-structure.md) - 1/2 Done
-- [Webview on Windows](webview.md) - In-progress
+- [Webview on Windows](webview.md) - 1/1 Done
