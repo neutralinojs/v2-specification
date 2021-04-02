@@ -10,7 +10,7 @@ You can create Neutralinojs v2 applications with the latest neu CLI.
 Install the CLI.
 
 ```
-$ npm -g install @neutralinojs/neu
+$ npm install -g @neutralinojs/neu
 ```
 
 Create a new application.
