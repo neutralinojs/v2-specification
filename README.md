@@ -38,5 +38,5 @@ $ neu build --release
 - [settings.json -> neutralino.config.json](neutralino.config.json.md) - 2/2 Done
 - [Security improvements](security.md) - 1/1 Done
 - [Router improvements](router.md) - 2/2 Done
-- [Project structure](project-structure.md) - 1/2 Done
+- [Project structure](project-structure.md) - 2/2 Done
 - [Webview on Windows](webview.md) - 1/1 Done
