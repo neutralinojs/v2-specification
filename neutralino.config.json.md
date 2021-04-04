@@ -50,7 +50,7 @@ v2.x implementation
     "TEST": "value",
     "NUM": 500
   },
-  "blockList": ["os.*", "debug.log"],
+  "nativeBlockList": ["os.*", "debug.log"],
   "modes": {
     "window": {
       "port": 5006,
