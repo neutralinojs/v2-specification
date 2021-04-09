@@ -10,15 +10,13 @@ Example:
 
 v2.x implementation
 
-`Neutralino.debug.log(LoggerOptions options)`
+`async Neutralino.debug.log(LoggerOptions options)`
 
 ```
 LoggerOptions;
 {
   string messageType;
   string messageContent;
-  function onSuccess;
-  function onError
 }
 ```
 
