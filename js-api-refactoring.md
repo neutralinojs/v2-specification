@@ -29,4 +29,4 @@ the communication was success with the server.
 
 v2.x implementation
 
-If there is an error thrown from the server, `onError` callback will be triggered.
+If there is an error thrown from the server, a JavaScript error will be thrown from promises.
