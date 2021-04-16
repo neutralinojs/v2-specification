@@ -5,32 +5,7 @@ Please notice that the macOS version is not yet supporting v2 implementaton (sti
 
 ## Get started 
 
-You can create Neutralinojs v2 applications with the latest neu CLI.
-
-Install the CLI.
-
-```
-$ npm install -g @neutralinojs/neu
-```
-
-Create a new application.
-
-```
-$ neu create myApp
-$ cd myApp
-```
-
-Run your application.
-
-```
-$ neu run
-```
-
-Share it with Linux/Windows users.
-
-```
-$ neu build --release
-```
+Please check [docs](https://neutralino.js.org/docs/)
 
 ## v1.x vs v2.x improvements.
 
